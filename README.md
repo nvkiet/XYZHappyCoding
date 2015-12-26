@@ -8,6 +8,10 @@
 
 ![XYZHappyCoding](Resources/example.png)
 
+# Installation
+
+Either use Alcatraz and search for XYZHappyCoding or you can just build the project and it will install automatically.
+
 ## Credit
 - Credit goes to [How To Create an Xcode Plugin: Part 1/3](http://www.raywenderlich.com/94020/creating-an-xcode-plugin-part-1)
 
